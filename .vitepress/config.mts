@@ -13,10 +13,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'SPworlds',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Что такое SPworlds', link: '/SPw' },
+          { text: 'СП', link: '/SPw-SP' },
+          { text: 'СПм', link: '/SPw-SPm' }
         ]
       }
     ],
