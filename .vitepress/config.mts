@@ -19,6 +19,14 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
+      {
+        text: 'SPworlds',
+        items: [
+          { text: 'SPworlds', link: '/index' },
+          { text: 'СПм', link: '/spm' }
+          { text: 'СП', link: '/sp' }
+        ]
+      }
     ],
 
     socialLinks: [
