@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Вики СПмини",
-  description: "Вики СПмини",
+  title: "Глобальная Википедия СПм",
+  description: "Информация от игроков для игроков",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

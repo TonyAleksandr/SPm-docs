@@ -3,23 +3,21 @@
 layout: home
 
 hero:
-  name: "Вики СПмини"
-  text: "Вики СПмини"
-  tagline: My great project tagline
+  name: "Глобальная Википедия СПм"
+  tagline: Информация от игроков для игроков
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: На главную
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Дискорд СПм
+      link: /api-examples
+    - theme: alt
+      text: SPmHelper
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Это википедия СПм
+    details: Тут вы действительно найдёте всё, что вам нужно о сервере
 ---
 
